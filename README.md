@@ -160,16 +160,3 @@ library-management-system/
 ### Library (Manager Class)
 - Attributes: books (map), members (map), transactions (vector)
 - Methods: addBook(), addMember(), issueBook(), returnBook(), searchBooks()
-
-## 🎓 Learning Outcomes
-
-- Practical implementation of OOP principles
-- STL container usage and selection
-- Memory management and object lifecycle
-- Business logic implementation
-- Error handling and input validation
-- Code organization and modularity
-
----
-
-⭐ If you found this project helpful, please give it a star!
